@@ -39,7 +39,7 @@ let favMovies = [
 		title: "JOKER",
 		year: 2019,
 		rating: 8.4,
-		review: "I like this film because "Joker" is a complex and controversial film that explores dark themes and contains graphic content. People's responses and interpretations may vary, and enjoyment of the film can be subjective. The reasons mentioned above provide insights into why the movie has resonated with many viewers who appreciate its performances, psychological depth, atmosphere, social commentary, unique approach to the superhero genre, artistic merit, and the awards recognition it has received.",
+		review: "I like this film because it's a complex and controversial film that explores dark themes and contains graphic content. People's responses and interpretations may vary, and enjoyment of the film can be subjective. The reasons mentioned above provide insights into why the movie has resonated with many viewers who appreciate its performances, psychological depth, atmosphere, social commentary, unique approach to the superhero genre, artistic merit, and the awards recognition it has received.",
 		directors: ["Todd Phillips"],
 		writers: ["Todd Phillips", "Scott Silver", "Bob Kane"],
 		stars: ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
